@@ -1,6 +1,7 @@
 #include <iostream>
 #include "D:\MyCPP_Libs\MyInputsLib.h";
 
+
 using namespace std;
 
 
@@ -52,6 +53,7 @@ int main()
 	result2 = (number2 == 0) ? "Zero" : (number2 > 0) ? "Positive" : "Negative";
 	cout << "The number2 " << number2 << " is " << result2 << endl;
 
+	
     return 0;
 
 
